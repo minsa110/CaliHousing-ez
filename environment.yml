@@ -1,0 +1,11 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+prefix: /opt/conda/envs/base
